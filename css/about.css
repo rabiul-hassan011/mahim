@@ -1,0 +1,16 @@
+/*about us start*/
+.about_us{
+	text-align: center;
+	font-family: "Poppins", serif;
+	color: #ffffff;
+	background-color: transparent;
+	height: 100vh;
+	background-image: url(../images/banner.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.about_text{
+	padding: 100px 0;
+}
+/*about us end*/
